@@ -162,7 +162,7 @@ API used : [geokeo](https://geokeo.com/)
 
 #### - Corrected date format
 
-####- Generated new features 'month', 'year' and 'short_name'
+#### - Generated new features 'month', 'year' and 'short_name'
 
 #### - Identified outliers in prices of different products.
 
