@@ -488,7 +488,7 @@ Product name- Whirlpool 7.5 kg Fully Automatic Top Load with In-built Heater Gre
 5. Air conditioner is the category with the least positive reviews(74.4% positives) and it has the most (18.2%) complaints about customer service-related problems.
 6. In the total negative reviews, we have 28.6% complaints about Faults in product and 8.93% complaints about Customer service issues.
 7. product name - Whirlpool 7.5 kg Fully Automatic Top Load with In-built Heater Grey is most badly reviewed product.
-8. Product name- Godrej 7 kg Fully Automatic Top Load with In-built Heater Grey is having more products faults.
+8. Product name- Godrej 7 kg Fully Automatic Top Load with In-built Heater Grey is having most products faults.
 9. Locations that are near the border of China, Nepal, Bhutan, and Bangladesh are having delayed delivery.
 
 # Authors
