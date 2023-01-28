@@ -471,7 +471,7 @@ Product name- Whirlpool 7.5 kg Fully Automatic Top Load with In-built Heater Gre
 
 # Discussion
 
-###Limitations of this study:
+### Limitations of this study:
 - This dataset was scraped from the reviews section of Flipkart for each product, and it has only the information that was available on the webpage. 
 - Flipkart doesn't allow us to scrape all data like the exact number of sales.
 - Flipkart also doesn't like 1 stars reviews and they silently delete some of them.
