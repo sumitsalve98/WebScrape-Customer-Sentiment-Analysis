@@ -484,7 +484,6 @@ Product name- Whirlpool 7.5 kg Fully Automatic Top Load with In-built Heater Gre
 
 1. The average rating is 4.26 stars and around 82.6% of total ratings fall under 4 and 5. It means most customers are satisfied with the service.
 2. We have around 696706 reviews that are predicted as positive feedback and 182602 reviews that are predicted as negative feedback. Again the number of positive feedback is very high compared to negative ones.
-3. Make adjustmentsin staff for those skills no longer in demand.
 4. Television is the category with the most positive reviews(84.5% positive) and it has the most (35.7%) complaints about Product defects/faults.
 5. Air conditioner is the category with the least positive reviews(74.4% positives) and it has the most (18.2%) complaints about customer service-related problems.
 6. In the total negative reviews, we have 28.6% complaints about Faults in product and 8.93% complaints about Customer service issues.
