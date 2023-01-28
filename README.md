@@ -214,6 +214,12 @@ To see the code and step by step process of Customer Sentiment Analysis: [custom
 
 ![Distribution of price hist.jpeg](https://github.com/sumitsalve98/WebScrape-Customer-Sentiment-Analysis/blob/master/images/Distribution%20of%20price%20hist.jpeg?raw=true)
 
+### Insights:
+
+- mean, min, max price of products are 19667, 670, 250000 rupees respectively.
+
+- Around 75% of products have price less than 50k 
+
 ### 2. Correlation between price and total sales
 
 ![Correlation between price and total sales.jpeg](https://github.com/sumitsalve98/WebScrape-Customer-Sentiment-Analysis/blob/master/images/Correlation%20between%20price%20and%20total%20sales.jpeg?raw=true)
@@ -292,6 +298,10 @@ To see the code and step by step process of Customer Sentiment Analysis: [custom
 
 ### 6. Perform the Customer complaint segmentation by analyzing the text with specific keywords in it which are related to issues.
 
+- Each negative customer review is scanned for a list of specific keywords that suggest potential issues the customer might have.
+
+- These complaints are categorized into subcategories like Faulty products, Customer service, Refunds/Returns/Replacement, delivery, Misleading price/advertising, unsafe product, and Wrong product received.
+
 ![Distribution of types of complaints.jpeg](https://github.com/sumitsalve98/WebScrape-Customer-Sentiment-Analysis/blob/master/images/Distribution%20of%20types%20of%20complaints.jpeg?raw=true)
 
 ### 7. What is the percentage of different types of issues from negative revives of customers for each category of products?
@@ -345,26 +355,6 @@ Whirlpool 7.5 kg Fully Automatic Top Load with In-built Heater Grey
 - REDMI 9i Sport (Coral Green, 64 GB) have most reviews count = 9500
 
 ![Polarity of reviews REDMI 9i Sport.jpeg](https://github.com/sumitsalve98/WebScrape-Customer-Sentiment-Analysis/blob/master/images/Polarity%20of%20reviews%20REDMI%209i%20Sport.jpeg?raw=true)
-
-
-## Programming Language Trends - Findings & Implications
-
-### Findings 
-
-1. JavaScript and HTML/CSS continue to be the top two most popular programming languages for this year and next.
-
-2. Python and TypeScript have gained more interest for next year.
-
-3. Whereas interest in SQL and Bash/Shell/PowerShell has decreased.
-
-### Implications
-
-1. Continue to employ a similar number of people skilled in JavaScript and HTML/CSS.
-
-2. Employ more people skilled in Python and TypeScript.
-
-3. Employ less people skilled in SQL and Bash/Shell/PowerShell.
-
 
 # Discussion
 
