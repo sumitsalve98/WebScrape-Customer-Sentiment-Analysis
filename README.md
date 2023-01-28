@@ -376,15 +376,27 @@ October, November, and December are months when sales are the highest
 
 - These complaints are categorized into subcategories like Faulty products, Customer service, Refunds/Returns/Replacement, delivery, Misleading price/advertising, unsafe product, and Wrong product received.
 
-![Distribution of types of complaints.jpeg](https://github.com/sumitsalve98/WebScrape-Customer-Sentiment-Analysis/blob/master/images/Distribution%20of%20types%20of%20complaints.jpeg?raw=true)
+![Distribution of type of complaints.jpeg](https://github.com/sumitsalve98/WebScrape-Customer-Sentiment-Analysis/blob/master/images/Distribution%20of%20type%20of%20complaints.jpeg?raw=true)
 
 ### Insights:
 
--
+In the total negative reviews, we have 
+- 28.6% complaints about Faults in product
+- 8.93% complaints about Customer service issues
+- 8.13% complaints about Refund/Return/Replacement
+- 4.11% complaints about delivery issues
+- 3.61% complaints about Misleading price/Advertisements
+- 0.22% unsafe product & 0.016% Wrong product received type of complaints
 
 ### 7. What is the percentage of different types of issues from negative revives of customers for each category of products?
 
 ![Product category specific complaints.jpeg](https://github.com/sumitsalve98/WebScrape-Customer-Sentiment-Analysis/blob/master/images/Product%20category%20specific%20complaints.jpeg?raw=true)
+
+### Insights:
+
+- Television has the most (35.7%) complaints about Product defects/faults.
+- Air Conditioner has the most (18.2%) complaints about customer service-related problems.
+- Refrigerators have the most (9.88%) and (7.15%) complaints about refund/return/replacements and delivery.
 
 ### 8. Analyze the Total reviews, Total negative reviews, and Complaints inside the negative review for every product in a dataset.
 
@@ -394,45 +406,69 @@ October, November, and December are months when sales are the highest
 
 ![Product with most negative reviews.jpeg](https://github.com/sumitsalve98/WebScrape-Customer-Sentiment-Analysis/blob/master/images/Product%20with%20most%20negative%20reviews.jpeg?raw=true)
 
-- Word Cloud of most Badly reviewed product
-
-Whirlpool 7.5 kg Fully Automatic Top Load with In-built Heater Grey
+#### Word Cloud of most Badly reviewed product
 
 ![Word Cloud of most Badly reviewed product.jpeg](https://github.com/sumitsalve98/WebScrape-Customer-Sentiment-Analysis/blob/master/images/WordCloud%20of%20most%20Badly%20reviewed%20product.jpeg?raw=true)
+
+### Insights:
+
+- product name - Whirlpool 7.5 kg Fully Automatic Top Load with In-built Heater Grey is most badly reviewed product.
+- Positive words: Good, price, delivery, features, spin time, automatic stains.
+- Negative words: inlet pipe, water inlet, performance, daily use, purchase, two stars.
 
 ### 10. Which Product is the most faulty according to customers?
 
 ![Most Faulty product.jpeg](https://github.com/sumitsalve98/WebScrape-Customer-Sentiment-Analysis/blob/master/images/Most%20Faulty%20product.jpeg?raw=true)
 
-- WordCloud of most Faulty products reviews
-
-Godrej 7 kg Fully Automatic Top Load with In-built Heater Grey
+#### WordCloud of most Faulty products reviews
 
 ![WordCloud of most Faulty product by customer reviews.jpeg](https://github.com/sumitsalve98/WebScrape-Customer-Sentiment-Analysis/blob/master/images/WordCloud%20of%20most%20Faulty%20product%20by%20customer%20reviews.jpeg?raw=true)
+
+### Insights:
+
+- Product name- Godrej 7 kg Fully Automatic Top Load with In-built Heater Grey is having more products faults.
+- Positive words: Thanks flipkart, washing performance, fabulous working, service, installation man, good aesthetics, delivery
+- Negative words: washer, bad quality, body.
 
 ### 11. Which product has a Customer service issue according to customers?
 
 ![Product with most Customer service issues.jpeg](https://github.com/sumitsalve98/WebScrape-Customer-Sentiment-Analysis/blob/master/images/Product%20with%20most%20Customer%20service%20issues.jpeg?raw=true)
 
-- WordCloud of product with Customer service issue
-
-Whirlpool 7.5 kg Fully Automatic Top Load with In-built Heater Grey
+#### WordCloud of product with Customer service issue
 
 ![WordCloud of Products with most Customer service issues by customer](https://github.com/sumitsalve98/WebScrape-Customer-Sentiment-Analysis/blob/master/images/WordCloud%20of%20Products%20with%20most%20Customer%20service%20issues%20by%20customer%20reviews.jpeg?raw=true)
+
+### Insights:
+
+Product name- Whirlpool 7.5 kg Fully Automatic Top Load with In-built Heater Grey is having more complaints about customer service.
 
 ### 12. Which customer locations have the most delivery issues?
 
 ![locations with most delivery complaints.jpeg](https://github.com/sumitsalve98/WebScrape-Customer-Sentiment-Analysis/blob/master/images/locations%20with%20most%20delivery%20complaints.jpeg?raw=true)
 
+### Insights:
+
+- Orai, Uttar Pradesh and Pune, Maharashtra are two locations that are having most delivery-related issues
+
 ### 13. Plot the Folium heatmap of customer locations that have the most delivery issues.
 
 ![map_most-delivery-issues.jpeg](https://github.com/sumitsalve98/WebScrape-Customer-Sentiment-Analysis/blob/master/images/map_most-delivery-issues.jpeg?raw=true)
+
+### Insights:
+
+- Locations that are near the border of China, Nepal, Bhutan, and Bangladesh are having delayed delivery.
 
 ### 14. Perform Time-Based Sentiment analysis on the most reviewed product of Flipkart
 
 - REDMI 9i Sport (Coral Green, 64 GB) have most reviews count = 9500
 
 ![Polarity of reviews REDMI 9i Sport.jpeg](https://github.com/sumitsalve98/WebScrape-Customer-Sentiment-Analysis/blob/master/images/Polarity%20of%20reviews%20REDMI%209i%20Sport.jpeg?raw=true)
+
+### Insights:
+
+- It's clear that this product is improving with time.
+- In the same timeline it is having much more positive feedback compared to negative.
+- positive reviews are increasing at a very high rate while negative reviews are increasing at a much slower rate
 
 # Discussion
 
