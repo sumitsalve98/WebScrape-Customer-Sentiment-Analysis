@@ -156,17 +156,17 @@ API used : [geokeo](https://geokeo.com/)
 
 ## 2. Data Cleaning & Adding useful features
 
-### 2.1. Removed rows where important values were missing.
+#### - Removed rows where important values were missing.
 
-### 2.2. Corrected data types
+#### - Corrected data types
 
-### 2.3. Corrected date format
+#### - Corrected date format
 
-### 2.4. Generated new features 'month', 'year' and 'short_name'
+####- Generated new features 'month', 'year' and 'short_name'
 
-### 2.5. Identified outliers in prices of different products.
+#### - Identified outliers in prices of different products.
 
-### 2.6. Saved dataframe into new csv: 
+#### - Saved dataframe into new csv: 
 
 - To see the code of Cleaning the raw data: [Data Cleaning & adding useful features.ipynb](https://github.com/sumitsalve98/WebScrape-Customer-Sentiment-Analysis/blob/master/2.%20Data%20Cleaning%20%26%20adding%20useful%20features.ipynb)
 
