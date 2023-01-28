@@ -224,15 +224,31 @@ To see the code and step by step process of Customer Sentiment Analysis: [custom
 
 ![Correlation between price and total sales.jpeg](https://github.com/sumitsalve98/WebScrape-Customer-Sentiment-Analysis/blob/master/images/Correlation%20between%20price%20and%20total%20sales.jpeg?raw=true)
 
+### Insights:
+
+- Products with price range of 10k to 30k are the most sold on flipkart.
+
 ### 3. What price range has the most selling products?
 
 ![Price range and Total sales.jpeg](https://github.com/sumitsalve98/WebScrape-Customer-Sentiment-Analysis/blob/master/images/Price%20range%20and%20Total%20sales.jpeg?raw=true)
 
 ![percentage of sales by price range.jpeg](https://github.com/sumitsalve98/WebScrape-Customer-Sentiment-Analysis/blob/master/images/percentage%20of%20sales%20by%20price%20range.jpeg?raw=true)
 
+### Insights:
+
+- Price range 0-25000 rupees have most selling products. 681743 products are sold within this price range. That covers up to 74.3% of total sales.
+
+- 195547 products are sold in price range of 25000-50000. That covers up to 21.3% of total sales.
+
+- Sales decreased drastically for products with prices of more than 100000 rupees
+
 ### 4. What is the Distribution of price for each category of products?
 
 ![Distribution of price by category.jpeg](https://github.com/sumitsalve98/WebScrape-Customer-Sentiment-Analysis/blob/master/images/Distribution%20of%20price%20by%20category.jpeg?raw=true)
+
+### Insights:
+
+- Among all the other product categories laptops have the most varying price range and the most expensive product in our data set is also a laptop with a price of 250k.
 
 ### 5. What are the total sales by each product category?
 
@@ -240,11 +256,25 @@ To see the code and step by step process of Customer Sentiment Analysis: [custom
 
 ![Total sales by each product category bar.jpeg](https://github.com/sumitsalve98/WebScrape-Customer-Sentiment-Analysis/blob/master/images/Total%20sales%20by%20each%20product%20category%20bar.jpeg?raw=true)
 
+### Insights:
+
+- Smartphone is most selling product category on flipkart. Its total sales are 499742 which covers up to 54.5% of total sales.
+
+- The laptop is the least sold category on Flipkart. Its total sales are 24176 which cover 2.63% of total sales
+
+- Water purifier, Washing machine, television have similar numbers of sales.
+
 ### 6. What are the most popular brands and what do they sell?
 
 ![Most popular brands.jpeg](https://github.com/sumitsalve98/WebScrape-Customer-Sentiment-Analysis/blob/master/images/Most%20popular%20brands.jpeg?raw=true)
 
 ![pivot table.jpeg](https://github.com/sumitsalve98/WebScrape-Customer-Sentiment-Analysis/blob/master/images/pivot_table_showing_top_selling_brands_with_product_categories.png?raw=true)
+
+### Insights:
+
+- Samsung, realme and poco are top three most popular while motorola, vivo and kent are least popular brands.
+
+- Samsung also have more product categories than others like:- air conditioner, refrigerator, smartphones, television and washing machine.
 
 ### 7. What are the top 10 most-sold & least-sold products?
 
@@ -252,21 +282,50 @@ To see the code and step by step process of Customer Sentiment Analysis: [custom
 
 ![Top 10 least sold products.jpeg](https://github.com/sumitsalve98/WebScrape-Customer-Sentiment-Analysis/blob/master/images/Top%2010%20least%20sold%20products.jpeg?raw=true)
 
+### Insights:
+
+- Samsung Galaxy F22 and redmi 9i Sport are the top selling products on flipkart with sales around 10k.
+
+- HP victus with ryzen 5 hexa core 5600H and Asus with ryzen 9 octa core 10nth gen are the least sold products on flipkart with sales of only 1 qnt.
+
 ### 8. Which cities have more customers who are buying Luxury items?
 
 ![Cities with more customers who are buying Luxury items.jpeg](https://github.com/sumitsalve98/WebScrape-Customer-Sentiment-Analysis/blob/master/images/Cities%20with%20more%20customers%20who%20are%20buying%20Luxury%20items.jpeg?raw=true)
+
+### Insights:
+
+Cities, where most of the expensive items are being sold, are
+
+- Bengaluru
+- Hyderabad
+- New Delhi
+- Chennai
+- Pune
+- Mumbai
 
 ### 9. What is the trend in sales by years?
 
 ![The overall trend in sales by years.jpeg](https://github.com/sumitsalve98/WebScrape-Customer-Sentiment-Analysis/blob/master/images/The%20overall%20trend%20in%20sales%20by%20years.jpeg?raw=true)
 
+### Insights:
+
+- Since we only have data of products which are launched in a recent year we cannot find a proper trend in sales for older products or products which are probably dead now.
+
 ### 10. What is the trend in sales by months?
 
 ![Trend in sales by month.jpeg](https://github.com/sumitsalve98/WebScrape-Customer-Sentiment-Analysis/blob/master/images/Trend%20in%20sales%20by%20month.jpeg?raw=true)
 
+### Insights:
+
+October, November, and December are months when sales are the highest
+
 ### 11. What are the sales in each state of India?
 
 ![map.png](https://github.com/sumitsalve98/WebScrape-Customer-Sentiment-Analysis/blob/master/images/map.png?raw=true)
+
+### Insights:
+
+- UP, Maharashtra and West Bengal are the states with highest sales of 68884 to 103325 products.
 
 ## Sentiment Analysis insights:
 
@@ -277,6 +336,12 @@ To see the code and step by step process of Customer Sentiment Analysis: [custom
 ![Distribution of avg ratings violin.jpeg](https://github.com/sumitsalve98/WebScrape-Customer-Sentiment-Analysis/blob/master/images/Distribution%20of%20avg%20ratings%20violin.jpeg?raw=true)
 
 ![percentage distribution of ratings.jpeg](https://github.com/sumitsalve98/WebScrape-Customer-Sentiment-Analysis/blob/master/images/percentage%20distribution%20of%20ratings.jpeg?raw=true)
+
+### Insights:
+
+- Average Rating is 4.26 star
+- 61.8% products have 5 star
+- 7.77% products have 1 star
 
 ### 2. What are the most high-rated and most low-rated products by their 'avg rating'?
 
@@ -292,9 +357,18 @@ To see the code and step by step process of Customer Sentiment Analysis: [custom
 
 ![Polarity of sentiment.jpeg](https://github.com/sumitsalve98/WebScrape-Customer-Sentiment-Analysis/blob/master/images/Polarity%20of%20sentiment.jpeg?raw=true)
 
+### Insights:
+- We have around 696706 reviews that have positive feedback and 182602 reviews with negative feedback.
+
 ### 5. What is the Category specific sentiment of the reviews?
 
 ![Category specific Sentiment polarity.jpeg](https://github.com/sumitsalve98/WebScrape-Customer-Sentiment-Analysis/blob/master/images/Category%20specific%20Sentiment%20polarity.jpeg?raw=true)
+
+### Insights:
+
+- Refrigerators have the most positive reviews. It has only 16% of negative reviews 
+
+- Air conditioner have 25% of negative reviews.
 
 ### 6. Perform the Customer complaint segmentation by analyzing the text with specific keywords in it which are related to issues.
 
@@ -303,6 +377,10 @@ To see the code and step by step process of Customer Sentiment Analysis: [custom
 - These complaints are categorized into subcategories like Faulty products, Customer service, Refunds/Returns/Replacement, delivery, Misleading price/advertising, unsafe product, and Wrong product received.
 
 ![Distribution of types of complaints.jpeg](https://github.com/sumitsalve98/WebScrape-Customer-Sentiment-Analysis/blob/master/images/Distribution%20of%20types%20of%20complaints.jpeg?raw=true)
+
+### Insights:
+
+-
 
 ### 7. What is the percentage of different types of issues from negative revives of customers for each category of products?
 
