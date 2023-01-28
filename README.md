@@ -36,7 +36,6 @@
 |   4    |      Results      |
 |   5    |    Discussion     |
 |   6    |    Conclusion     |
-|   7    |     Appendix      |
 
 # Executive Summary
 
@@ -472,48 +471,26 @@ Product name- Whirlpool 7.5 kg Fully Automatic Top Load with In-built Heater Gre
 
 # Discussion
 
-Technology Trends now and future
-
-Training and Re-skilling workers
-
-Females participation in Technology field
-
-Bridge divide of technology gaps in developing countries
-
-Eliminate age and education discrimination in employment
-
-# Ovearall Findings and Implications
-
-## Findings
-
-1. Programming Languages- TypeScript is gaining significant interest and Python continues to grow as well.
-
-2. Databases- Redis, Elasticsearch, PostgreSQL and MongoDB are gaining more interest.
-
-3. Platforms- Interest Slack and Windows is dropping significantly.
-
-4. WebFrames- Vue.js is gaining substantial interest and React.js continues to grow as well.
-
-## Implications
-
-1. Continue to staff enough JavaScript and HTML/CSS but employ more people skilled in TypeScript and Python.
-
-2. Employ more people skilled in Redis, Elasticsearch, PostgreSQL and MongoDB.
-
-3. Continue to staff enough ASP.NET but employ more people skilled in Vue.js and React.js.
-
-4. Continue to staff enough Linux, employ more peopleskilled in Docker, AWS and Android, butmake reductionsto Slack and Windows.
-
+###Limitations of this study:
+- This dataset was scraped from the reviews section of Flipkart for each product, and it has only the information that was available on the webpage. 
+- Flipkart doesn't allow us to scrape all data like the exact number of sales.
+- Flipkart also doesn't like 1 stars reviews and they silently delete some of them.
+### Suggestions for future research:
+- Building an NLP model for sentiment analysis can help a business understand how customers feel about their products or services.
+- This information can be used to improve customer satisfaction and make strategic decisions about product development and marketing. 
+- An NLP model for sentiment analysis can provide valuable insights that can help a business be more successful.
 
 # Conclusion
 
-1. Carve out budget in order to hire additional staff with skills needed to fill any gaps.
-
-2. Set aside budget or put a program in place to upskill those already employed.
-
+1. The average rating is 4.26 stars and around 82.6% of total ratings fall under 4 and 5. It means most customers are satisfied with the service.
+2. We have around 696706 reviews that are predicted as positive feedback and 182602 reviews that are predicted as negative feedback. Again the number of positive feedback is very high compared to negative ones.
 3. Make adjustmentsin staff for those skills no longer in demand.
-
-# Appendix
+4. Television is the category with the most positive reviews(84.5% positive) and it has the most (35.7%) complaints about Product defects/faults.
+5. Air conditioner is the category with the least positive reviews(74.4% positives) and it has the most (18.2%) complaints about customer service-related problems.
+6. In the total negative reviews, we have 28.6% complaints about Faults in product and 8.93% complaints about Customer service issues.
+7. product name - Whirlpool 7.5 kg Fully Automatic Top Load with In-built Heater Grey is most badly reviewed product.
+8. Product name- Godrej 7 kg Fully Automatic Top Load with In-built Heater Grey is having more products faults.
+9. Locations that are near the border of China, Nepal, Bhutan, and Bangladesh are having delayed delivery.
 
 # Authors
 
