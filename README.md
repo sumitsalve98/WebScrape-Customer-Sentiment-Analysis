@@ -366,44 +366,6 @@ Whirlpool 7.5 kg Fully Automatic Top Load with In-built Heater Grey
 3. Employ less people skilled in SQL and Bash/Shell/PowerShell.
 
 
-## Database Trends 
-
-![Database Trends.jpg](https://github.com/sumitsalve98/IBM-Data-Analyst-Capstone-Project/blob/master/IBM%20Data%20Analyst%20Capstone%20Project/screenshots/Database%20Trends.jpg)
-
-## Database Trends - Findings & Implications
-
-### Findings
-
-1. Interest in MySQL, Microsoft SQL Server and SQLite has decreased for next year.
-
-2. Interest in PostgreSQL and MongoDB have increased compared to the current year.
-
-3. There is gained interest in Redis and Elasticsearch for next year.
-
-### Implications
-
-1. Employ less people skilled in MySQL, Microsoft SQL Server and SQLite.
-
-2. Employ more people skilled in PostgreSQL and MongoDB.
-
-3. Employ more people skilled in Redis and Elasticsearch.
-
-## IBM Cognos Dashboard Link
-
-[Dashboard](https://jp-tok.dataplatform.cloud.ibm.com/dashboards/7c95e4bd-4a86-4aa6-8e46-546a3749d006/view/553fc12300b300e714b5eee407992f067b37740fb7bb815086d77b490a622097f33b1699c82a4d59da400460fbe811599a)
-
-### Current Technology usage Dasboard
-
-![Current Technology usage Dasboard](https://github.com/sumitsalve98/IBM-Data-Analyst-Capstone-Project/blob/master/IBM%20Data%20Analyst%20Capstone%20Project/screenshots/Current%20Technology%20usage%20Dasboard.jpg)
-
-### Future Technology trend Dasboard
-
-![Future Technology trend Dasboard](https://github.com/sumitsalve98/IBM-Data-Analyst-Capstone-Project/blob/master/IBM%20Data%20Analyst%20Capstone%20Project/screenshots/Future%20Technology%20trend%20Dasboard.jpg)
-
-### Demographics Dashboard
-
-![Demographics Dashboard](https://github.com/sumitsalve98/IBM-Data-Analyst-Capstone-Project/blob/master/IBM%20Data%20Analyst%20Capstone%20Project/screenshots/Demographics%20Dashboard.jpg)
-
 # Discussion
 
 Technology Trends now and future
@@ -448,19 +410,6 @@ Eliminate age and education discrimination in employment
 3. Make adjustmentsin staff for those skills no longer in demand.
 
 # Appendix
-
-### GITHUB JOB POSTINGS
-
-![GITHUB JOB POSTINGS.jpg](https://github.com/sumitsalve98/IBM-Data-Analyst-Capstone-Project/blob/master/IBM%20Data%20Analyst%20Capstone%20Project/screenshots/GITHUB%20JOB%20POSTINGS.jpg)
-
-### POPULAR LANGUAGES
-
-![POPULAR LANGUAGES.jpg](https://github.com/sumitsalve98/IBM-Data-Analyst-Capstone-Project/blob/master/IBM%20Data%20Analyst%20Capstone%20Project/screenshots/POPULAR%20LANGUAGES.jpg)
-
-### Box plot of Age and Pie chart of the top 5 databases that respondents wish to learn next year
-
-![Box and Pie chart](https://github.com/sumitsalve98/IBM-Data-Analyst-Capstone-Project/blob/master/IBM%20Data%20Analyst%20Capstone%20Project/screenshots/Plot%20a%20box%20plot%20of%20Age%20and%20Pie%20chart%20of%20the%20top%205%20databases%20that%20respondents%20wish%20to%20learn%20next%20year.jpg)
-
 
 # Authors
 
